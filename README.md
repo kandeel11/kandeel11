@@ -16,66 +16,65 @@
 
 ### About Me
 
-- B.Sc. Computer and Control Engineering, Excellent with Honors, ranked 2nd in class
-- - ITI Full Stack .NET intensive program graduate
-  - - Tanta, Egypt, open to relocation
-    - - I use AI coding tools (Claude Code, Gemini) daily and build RAG/agentic features into real products
-      - - Currently leveling up: automated testing (xUnit/Moq) and structured logging (Serilog)
-        - - Ask me about Clean Architecture, CQRS/MediatR, or Semantic Kernel
-         
-          - <br/>
+B.Sc. Computer and Control Engineering, Excellent with Honors, ranked 2nd in class<br/>
+ITI Full Stack .NET intensive program graduate<br/>
+Tanta, Egypt, open to relocation<br/>
+I use AI coding tools (Claude Code, Gemini) daily and build RAG/agentic features into real products<br/>
+Currently leveling up: automated testing (xUnit/Moq) and structured logging (Serilog)<br/>
+Ask me about Clean Architecture, CQRS/MediatR, or Semantic Kernel
 
-          ### Tech Stack
+<br/>
 
-          <div align="center">
+### Tech Stack
 
-          ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-          ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-          ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-          ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-          ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<div align="center">
 
-          ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-          ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-          ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-          ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-          ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-          </div>
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-          ### Featured Projects
+</div>
 
-          **AI Real Estate Platform** — [link](https://github.com/kandeel11/Real-Estate-ITI-Graduation-Project)
-          Modular monolith with CQRS/MediatR, Redis caching, and a Semantic Kernel RAG assistant for property queries. Deployed to Azure via GitHub Actions CI/CD.
+### Featured Projects
 
-          **Vortex, E-commerce Platform** — [link](https://github.com/kandeel11/AngularProject)
-          3-person team project. ASP.NET Core + Angular 21 + SQL Server + SignalR. I owned Stripe/PayPal payment integration and the order lifecycle.
+**AI Real Estate Platform** — [link](https://github.com/kandeel11/Real-Estate-ITI-Graduation-Project)
+Modular monolith with CQRS/MediatR, Redis caching, and a Semantic Kernel RAG assistant for property queries. Deployed to Azure via GitHub Actions CI/CD.
 
-          **AI Floor Plan Generator** — [link](https://github.com/kandeel11/floorplan-AI-GP)
-          GAN-based architectural layout generator. Python + React + Three.js, 3D rendering under 2 seconds.
+**Vortex, E-commerce Platform** — [link](https://github.com/kandeel11/AngularProject)
+3-person team project. ASP.NET Core + Angular 21 + SQL Server + SignalR. I owned Stripe/PayPal payment integration and the order lifecycle.
 
-          **Student Management System** — [link](https://github.com/kandeel11/StudentsManagmentSystem)
-          ASP.NET Core MVC + Identity, role-based access control, secure CRUD for 500+ student records.
+**AI Floor Plan Generator** — [link](https://github.com/kandeel11/floorplan-AI-GP)
+GAN-based architectural layout generator. Python + React + Three.js, 3D rendering under 2 seconds.
 
-          ### GitHub Stats
+**Student Management System** — [link](https://github.com/kandeel11/StudentsManagmentSystem)
+ASP.NET Core MVC + Identity, role-based access control, secure CRUD for 500+ student records.
 
-          <div align="center">
+### GitHub Stats
 
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=kandeel11&theme=transparent&hide_border=true&ring=2B6E56&fire=C1652F&currStreakLabel=2B6E56" width="60%"/>
+<div align="center">
 
-          </div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kandeel11&theme=transparent&hide_border=true&ring=2B6E56&fire=C1652F&currStreakLabel=2B6E56" width="60%"/>
 
-          <br/>
+</div>
 
-          ### Contribution Snake
+<br/>
 
-          <div align="center">
+### Contribution Snake
 
-          <img alt="contribution snake" src="https://raw.githubusercontent.com/kandeel11/kandeel11/output/github-contribution-grid-snake.svg" width="100%"/>
+<div align="center">
 
-          </div>
+<img alt="contribution snake" src="https://raw.githubusercontent.com/kandeel11/kandeel11/output/github-contribution-grid-snake.svg" width="100%"/>
 
-          <br/>
+</div>
 
-          <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:2B6E56&height=100&section=footer" width="100%"/>
-          
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:2B6E56&height=100&section=footer" width="100%"/>
