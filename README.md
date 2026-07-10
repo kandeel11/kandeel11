@@ -16,46 +16,46 @@
 
 ### About Me
 
-B.Sc. Computer and Control Engineering, Excellent with Honors, ranked 2nd in class<br/>
-ITI Full Stack .NET intensive program graduate<br/>
-Tanta, Egypt, open to relocation<br/>
-I use AI coding tools (Claude Code, Gemini) daily and build RAG/agentic features into real products<br/>
-Currently leveling up: automated testing (xUnit/Moq) and structured logging (Serilog)<br/>
-Ask me about Clean Architecture, CQRS/MediatR, or Semantic Kernel
+| | |
+|:---|:---|
+| Education | B.Sc. Computer & Control Engineering, Excellent with Honors, ranked 2nd in class |
+| Training | ITI Full Stack .NET Graduate |
+| Location | Tanta, Egypt, open to relocation |
+| AI-Native Dev | Use Claude Code and Gemini daily, build RAG/agentic features into real products |
+| Leveling Up | Automated testing (xUnit/Moq), structured logging (Serilog) |
+| Talk To Me About | Clean Architecture, CQRS/MediatR, Semantic Kernel |
 
 <br/>
 
 ### Tech Stack
 
-<div align="center">
+**Backend**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Frontend**
+
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+**Cloud and DevOps**
+
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
-
 ### Featured Projects
 
-**AI Real Estate Platform** — [link](https://github.com/kandeel11/Real-Estate-ITI-Graduation-Project)
-Modular monolith with CQRS/MediatR, Redis caching, and a Semantic Kernel RAG assistant for property queries. Deployed to Azure via GitHub Actions CI/CD.
-
-**Vortex, E-commerce Platform** — [link](https://github.com/kandeel11/AngularProject)
-3-person team project. ASP.NET Core + Angular 21 + SQL Server + SignalR. I owned Stripe/PayPal payment integration and the order lifecycle.
-
-**AI Floor Plan Generator** — [link](https://github.com/kandeel11/floorplan-AI-GP)
-GAN-based architectural layout generator. Python + React + Three.js, 3D rendering under 2 seconds.
-
-**Student Management System** — [link](https://github.com/kandeel11/StudentsManagmentSystem)
-ASP.NET Core MVC + Identity, role-based access control, secure CRUD for 500+ student records.
+| Project | Stack | Highlights |
+|:---|:---|:---|
+| [AI Real Estate Platform](https://github.com/kandeel11/Real-Estate-ITI-Graduation-Project) | ASP.NET Core, Angular, Redis, Semantic Kernel | Modular monolith, CQRS/MediatR, RAG-based property search, deployed to Azure via GitHub Actions CI/CD |
+| [Vortex, E-commerce Platform](https://github.com/kandeel11/AngularProject) | ASP.NET Core, Angular 21, SQL Server, SignalR | 3-person team project. Owned Stripe/PayPal payment integration and the order lifecycle |
+| [AI Floor Plan Generator](https://github.com/kandeel11/floorplan-AI-GP) | Python, React, Three.js | GAN-based architectural layout generator, 3D rendering under 2 seconds |
+| [Student Management System](https://github.com/kandeel11/StudentsManagmentSystem) | ASP.NET Core MVC, Identity | Role-based access control, secure CRUD for 500+ student records |
 
 ### GitHub Stats
 
