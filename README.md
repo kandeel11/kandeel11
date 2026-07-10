@@ -6,6 +6,8 @@
 <a href="mailto:kandeelmohamed241@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/kandeel11"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
+![Profile Views](https://komarev.com/ghpvc/?username=kandeel11&color=2b6e56&style=flat&label=Profile+Views)
+
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2B6E56&center=true&vCenter=true&width=650&lines=Building+with+C%23+%2F+ASP.NET+Core+%2F+Angular;Integrating+AI+into+real+products%2C+not+demos;Clean+Architecture+%7C+CQRS+%7C+MediatR;ITI+Full+Stack+.NET+Graduate" />
@@ -18,6 +20,7 @@
 - 🧠 ITI Full Stack .NET intensive program graduate
 - 📍 Tanta, Egypt — open to relocation
 - 🤖 I use AI coding tools (Claude Code, Gemini) daily and build RAG/agentic features into real products
+- 📚 Currently leveling up: automated testing (xUnit/Moq) and structured logging (Serilog)
 - 💬 Ask me about Clean Architecture, CQRS/MediatR, or Semantic Kernel
 
 <br/>
@@ -86,7 +89,19 @@ ASP.NET Core MVC + Identity, role-based access control, secure CRUD for 500+ stu
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kandeel11&theme=transparent&hide_border=true&ring=2B6E56&fire=C1652F&currStreakLabel=2B6E56" width="60%"/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=kandeel11&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1" width="80%"/>
+
 </div>
+
+<br/>
+
+### Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kandeel11/kandeel11/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kandeel11/kandeel11/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/kandeel11/kandeel11/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <br/>
 
