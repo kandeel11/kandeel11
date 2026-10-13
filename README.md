@@ -62,8 +62,8 @@ Every project below is written up as a case study, with the problem, what I buil
 | Project | Stack | Highlights |
 |:---|:---|:---|
 | [EstateFlow AI](https://github.com/kandeel11/Real-Estate-ITI-Graduation-Project) | .NET 10, Angular, Redis, Semantic Kernel, Qdrant | Rental platform for landlords, tenants and brokers. Rent through Stripe, lease dates read by Azure Document Intelligence, duplicate listings caught by vector search. Team of six |
-| [Vortex, E-commerce Platform](https://github.com/kandeel11/AngularProject) | .NET 10, Angular 21, SQL Server, SignalR | Separate areas for customers, sellers and admins. An order is marked paid only after Stripe's signed webhook or a confirmed PayPal capture. Team of three |
-| [TrackManagement](https://github.com/kandeel11/TrackManagment) | .NET 10, DDD, EF Core, JWT, Angular | A track moves through the release steps only in order, enforced by the domain model, not the controllers |
+| [Vortex, E-commerce Platform](https://github.com/kandeel11/Vortex) | .NET 10, Angular 21, SQL Server, SignalR | Separate areas for customers, sellers and admins. An order is marked paid only after Stripe's signed webhook or a confirmed PayPal capture. Team of three |
+| [TrackManagement](https://github.com/kandeel11/TrackManagement) | .NET 10, DDD, EF Core, JWT, Angular | A track moves through the release steps only in order, enforced by the domain model, not the controllers |
 | [EcoBazar](https://github.com/kandeel11/CST-E-commerce-Project) ([live](https://kandeel11.github.io/CST-E-commerce-Project/)) | JavaScript, OOP, Bootstrap, Chart.js | Grocery store for customers, sellers and admins that runs entirely in the browser. I led the team of five |
 | [AI Floor Plan Generator](https://github.com/kandeel11/floorplan-AI-GP) | Python, PyTorch, ResNet-34, DeepLab | Four networks lay out the rooms and interior walls of an apartment from its outer boundary alone. B.Sc. graduation project |
 
